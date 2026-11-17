@@ -1,0 +1,8 @@
+{
+  "name": "Birthday Surprise for Sanika",
+  "description": "An interactive, cinematic and emotional birthday surprise website created especially for Sanika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

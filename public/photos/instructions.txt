@@ -1,0 +1,14 @@
+﻿1. Place your photos of Sanika here (use these filenames):
+2. - Sanika01.png
+3. - Sanika02.webp
+4. - Sanika03.png
+5. - Sanika04.png
+6. - Sanika05.png
+7. - Sanika06.png
+8. - Sanika07.png
+9. - Sanika08.png
+10. - Sanika09.png
+11. - Sanika10.png
+12. - Sanika11.png
+13.
+14. You can also customize captions, order, or add more images in src/data/birthdayData.ts (the photos array).
